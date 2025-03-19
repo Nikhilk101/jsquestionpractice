@@ -20,3 +20,8 @@ function isPalindrome(str) {
   console.log(isPalindrome("ab"));    // Output: false (not a palindrome)
   console.log(isPalindrome("a"));     // Output: true (palindrome)
   
+
+
+
+
+  
